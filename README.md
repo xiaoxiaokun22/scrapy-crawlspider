@@ -1,0 +1,2 @@
+# scrapy-crawlspider
+scrapy使用crawlspider，LinkExtractor方式爬取汽车之家
